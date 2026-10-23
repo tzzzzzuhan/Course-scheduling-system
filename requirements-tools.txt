@@ -1,0 +1,3 @@
+# Optional PDF extraction and browser smoke testing only; not needed to run the site.
+pdfplumber==0.11.9
+playwright==1.62.0
